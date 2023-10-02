@@ -100,3 +100,16 @@ body{
 
 }
 
+.weather{
+    display : none;
+}
+.error{
+    background-color: rgba(204, 67, 67, 0.9);
+    border-radius: 5%;
+    text-align: left;
+    margin-left: 10px;
+    font-size: 14px;
+    margin-top: 20px;
+    padding: 5px 10px;
+    display: none;
+}
